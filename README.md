@@ -17,3 +17,8 @@
 - Step2: MVVM 변환 [코드리뷰](https://github.com/next-step/android-calculator-mvvm/pull/19)
 - Step3: 계산기록(로컬저장소) [코드리뷰](https://github.com/next-step/android-calculator-mvvm/pull/29)
 - Step4: 리팩토링 [코드리뷰](https://github.com/next-step/android-calculator-mvvm/pull/41)
+
+## 4주차 - GitHub, 공식 앱 아키텍처 가이드 (마지막 주차)
+- Step1: 모듈 분리 [코드리뷰](https://github.com/next-step/android-github/pull/27)
+- Step2: HTTP [코드리뷰](https://github.com/next-step/android-github/pull/30)
+- Step3: UI [코드리뷰](https://github.com/next-step/android-github/pull/31)
